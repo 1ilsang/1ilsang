@@ -25,6 +25,6 @@ Welcome to my github.
 <a href="https://vuejs.org"><code><img height="35" src="https://github.com/1ilsang/1ilsang/blob/master/assets/images/vue.png"></code></a>
 <a href="https://www.docker.com"><code><img height="35" src="https://github.com/1ilsang/1ilsang/blob/master/assets/images/docker.png"></code></a>
 <a href="https://www.mysql.com"><code><img height="35" src="https://github.com/1ilsang/1ilsang/blob/master/assets/images/mysql.png"></code></a>
-<a href="https://www.mysql.com"><code><img height="35" src="https://github.com/1ilsang/1ilsang/blob/master/assets/images/redis.png"></code></a>
+<a href="https://redis.io"><code><img height="35" src="https://github.com/1ilsang/1ilsang/blob/master/assets/images/redis.png"></code></a>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1ilsang)](https://solved.ac/1ilsang)
