@@ -2,12 +2,12 @@
 
 <a href="https://1041uuu.tumblr.com/" ><img align="right" width="40%" src="https://github.com/1ilsang/1ilsang/blob/master/assets/images/dot.gif"></a>
 
+<img width="50%" src="https://github.com/1ilsang/1ilsang/blob/master/assets/images/jerry.gif">
+
 #### Welcome to my github.
 
 - 👨🏽‍💻 I’m currently working on [LINE](https://linecorp.com/en)
 - Work Hard&nbsp;<img src="https://github.com/1ilsang/1ilsang/blob/master/assets/images/rocket.gif" width="17px">, Play Harder 🏖✈️&nbsp;<img src="https://github.com/1ilsang/1ilsang/blob/master/assets/images/earth.gif" width="17px">
-
-<br />
 
 **Like :heart:**
 
