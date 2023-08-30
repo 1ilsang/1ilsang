@@ -1,10 +1,11 @@
 
-[![lost-ark preview](https://user-images.githubusercontent.com/23524849/133109220-27d6c8b4-2272-42eb-8b23-7aa9f03f4cfe.png)](https://youtu.be/uFTzZIi8mMI)
+[![image](https://github.com/1ilsang/1ilsang/assets/23524849/02d25369-e0ae-4fda-9c7b-0332212b2928)](https://1ilsang.dev/)
+
 
 <p></p>
 
 <hr />
 
-> 카마인 tsx
+> HAPPY | ENJOY | POSITIVE | LIFE | LOVE | ALIVE | BEING
 
 <hr />
