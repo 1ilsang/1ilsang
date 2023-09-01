@@ -5,6 +5,6 @@
 
 <hr />
 
-> HAPPY | ENJOY | POSITIVE | LIFE | LOVE | ALIVE | BEING
+> HAPPY - ENJOY - POSITIVE -  LIFE -  LOVE -  ALIVE -  BEING
 
 <hr />
